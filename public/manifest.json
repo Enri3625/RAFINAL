@@ -1,0 +1,53 @@
+{
+    "short_name": "UE Champions League",
+    "name": "UE Champions League",
+    "start_url": "index.html",
+    "background_color": "#3498db",
+    "theme_color": "#3498db",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "img/icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+      ]
+
+
+}
